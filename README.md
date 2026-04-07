@@ -74,11 +74,7 @@ Renewable energy creates large-scale employment opportunities
 Balanced funding distribution across energy sectors
 
 🚀 How to Use
-
 Open the .pbix file in Power BI
-
 Use the slicer to filter by energy type
-
 Explore both dashboards for insights
-
 Analyze trends and relationships
