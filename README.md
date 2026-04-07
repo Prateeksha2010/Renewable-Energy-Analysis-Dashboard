@@ -20,17 +20,23 @@ Enable data-driven sustainability decisions
 📸 Dashboard Preview
 
 🌍 Environmental Impact Dashboard
+
 Displays key sustainability metrics:
-GHG Emission Reduction (378.52M tCO₂e)
-Air Pollution Reduction Index (760.86K)
-Carbon Efficiency (0.10)
+GHG Emission Reduction (378.52M tCO₂e),
+Air Pollution Reduction Index (760.86K),
+Carbon Efficiency (0.10),
 Environmental Impact Score (5.07)
+
 Key Visuals:
+
 Bar chart → GHG reduction by energy type
+
 Donut chart → Pollution reduction distribution
+
 Scatter plot → Sustainability matrix (Energy vs Emissions)
 
 💼 Employment & Economic Impact Dashboard
+
 Focuses on economic and workforce contributions:
 Jobs Created: 38M
 Jobs per MW: 5.05
@@ -43,38 +49,37 @@ Bar chart → Jobs created per energy source
 Scatter plot → Efficiency frontier (Investment vs Output)
 Donut chart → Funding sources distribution
 📌 Key KPIs
-⚡ Energy Production (MWh)
-🌿 GHG Emission Reduction (tCO₂e)
-🌫️ Air Pollution Reduction Index
-📈 Carbon Efficiency
-💰 Total Investment
-👷 Jobs Created
-📊 Jobs per MW
-🧱 Data Model
+ Energy Production (MWh),
+ GHG Emission Reduction (tCO₂e),
+ Air Pollution Reduction Index,
+ Carbon Efficiency,
+ Total Investment,
+ Jobs Created,
+ Jobs per MW,
+ Data Model
 
 Fact Table:
 Energy Production & Impact Data
+
 Dimension Tables:
-Energy Type
-Time (Year/Month)
+Energy Type,
+Time (Year/Month),
 Funding Sources
 
-🎛️ Features
-Interactive filters (slicers) for energy type
-Cross-dashboard insights (environment + economy)
-Comparative analysis across renewable sources
-Clean UI with KPI cards and dynamic visuals
 
-🛠️ Tools & Technologies
-Power BI → Dashboard creation
-Excel → Data source
-Data Modeling → Star schema approach
+
+
 
 📈 Insights Gained
+
 Wind and Solar contribute significantly to GHG reduction
+
 Investment is highest in scalable energy sources
+
 Strong correlation between investment and energy output
+
 Renewable energy creates large-scale employment opportunities
+
 Balanced funding distribution across energy sectors
 
 🚀 How to Use
