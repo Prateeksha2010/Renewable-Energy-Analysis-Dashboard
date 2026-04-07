@@ -7,9 +7,13 @@ The dashboard provides insights into sustainability metrics, pollution reduction
 
 🎯 Objectives
 Analyze the environmental impact of renewable energy
+
 Evaluate economic investments and returns
+
 Measure job creation and employment efficiency
+
 Compare performance across different energy sources
+
 Enable data-driven sustainability decisions
 
 
@@ -74,7 +78,11 @@ Renewable energy creates large-scale employment opportunities
 Balanced funding distribution across energy sectors
 
 🚀 How to Use
+
 Open the .pbix file in Power BI
+
 Use the slicer to filter by energy type
+
 Explore both dashboards for insights
+
 Analyze trends and relationships
